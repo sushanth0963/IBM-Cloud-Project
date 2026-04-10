@@ -84,10 +84,8 @@ User Input (Resume / Job Role)
             ↓
      Frontend Display (Chat UI)
 
----
 
-## 🧠 Algorithm
-
+🧠 Algorithm
 Step-by-Step Workflow
 Input Stage
 User uploads resume or enters job role
@@ -101,20 +99,14 @@ Behavioral scenarios
 Output Stage
 Personalized mock interview experience
 Feedback and improvement suggestions
----
-
-## ☁️ Deployment
+☁️ Deployment
 Hosted on IBM Cloud
 Backend APIs deployed using Flask / FastAPI
 Frontend served via React-based UI
----
-
-## 📂 Data Storage
+📂 Data Storage
 Cloudant DB
 IBM Cloud Object Storage
----
-
-## 📊 Sample Output
+📊 Sample Output
 Role: Software Engineer (Fresher)
 Technical Question:
 Explain OOP concepts in Python
@@ -124,24 +116,19 @@ Feedback:
 Improve clarity in explanation
 Maintain structured answers (STAR method recommended)
 Mock Score: 7.5 / 10
----
-
-## 🎯 Benefits
+🎯 Benefits
 Improves interview readiness
 Provides structured and personalized learning
 Enhances communication skills
 Simulates real interview environment
 Saves time with automated preparation
----
-
-## 🔮 Future Scope
+🔮 Future Scope
 🎙️ Voice-based mock interview support
 📚 Expand question database across more roles
 🎥 Video-based body language analysis
 📱 Mobile application deployment
 🤖 Reinforcement learning for smarter feedback
----
-## 📚 References
+📚 References
 Lewis et al., "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks", NeurIPS 2020
 IBM Documentation – Watsonx.ai & Granite Models
 IBM Cloud Documentation – Watson Discovery & Cloudant
@@ -150,8 +137,6 @@ Articles from:
 Glassdoor (Interview Experiences)
 LinkedIn (Professional insights)
 GeeksforGeeks (Technical interview preparation)
----
-
-## 👨‍💻 Author
+👨‍💻 Author
 Project Developer:
 Sushanth
