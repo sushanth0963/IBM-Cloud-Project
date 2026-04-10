@@ -84,6 +84,7 @@ User Input (Resume / Job Role)
             ↓
      Frontend Display (Chat UI)
 
+---
 
 🧠 Algorithm
 Step-by-Step Workflow
@@ -99,13 +100,22 @@ Behavioral scenarios
 Output Stage
 Personalized mock interview experience
 Feedback and improvement suggestions
+
+---
+
 ☁️ Deployment
 Hosted on IBM Cloud
 Backend APIs deployed using Flask / FastAPI
 Frontend served via React-based UI
+
+---
+
 📂 Data Storage
 Cloudant DB
 IBM Cloud Object Storage
+
+---
+
 📊 Sample Output
 Role: Software Engineer (Fresher)
 Technical Question:
@@ -116,18 +126,27 @@ Feedback:
 Improve clarity in explanation
 Maintain structured answers (STAR method recommended)
 Mock Score: 7.5 / 10
+
+---
+
 🎯 Benefits
 Improves interview readiness
 Provides structured and personalized learning
 Enhances communication skills
 Simulates real interview environment
 Saves time with automated preparation
+
+---
+
 🔮 Future Scope
 🎙️ Voice-based mock interview support
 📚 Expand question database across more roles
 🎥 Video-based body language analysis
 📱 Mobile application deployment
 🤖 Reinforcement learning for smarter feedback
+
+---
+
 📚 References
 Lewis et al., "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks", NeurIPS 2020
 IBM Documentation – Watsonx.ai & Granite Models
@@ -137,6 +156,9 @@ Articles from:
 Glassdoor (Interview Experiences)
 LinkedIn (Professional insights)
 GeeksforGeeks (Technical interview preparation)
+
+---
+
 👨‍💻 Author
 Project Developer:
 Sushanth
